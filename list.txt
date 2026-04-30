@@ -470,7 +470,6 @@ full:ds0h3roq6wcgc.cloudfront.net
 full:dykkng5hnh52u.cloudfront.net
 
 # Other
-2ip.ru
 dell.com
 www.dell.com
 docker.com
