@@ -502,3 +502,4 @@ habr.com
 ntc.party
 proton.me
 spacecore.pro
+*.githubusercontent.com
